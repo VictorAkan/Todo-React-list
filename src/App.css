@@ -6,3 +6,18 @@
   background-color: rgb(231, 0, 231);
   border-radius: 2rem;
 }
+.card {
+  border: none;
+}
+.btn-blue {
+  background-color: blue;
+  color: white;
+}
+img {
+  width: 5rem;
+  height: 5rem;
+}
+article {
+  align-items: center;
+  /* justify-content: center; */
+}
